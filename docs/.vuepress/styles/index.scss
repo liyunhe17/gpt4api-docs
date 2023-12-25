@@ -1,0 +1,19 @@
+:root {
+    // brand colors
+    --c-brand: #00567e;
+    --c-brand-light: #4c7d8a;
+
+    // custom container colors
+    --c-tip: #0093d2;
+}
+
+
+
+html.dark {
+    // brand colors
+    --c-brand: #32a6db;
+    --c-brand-light: #5db0ba;
+
+    // custom container colors
+    --c-tip: #3fc5ff;
+}

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fb0f0066","path":"/guide/getting-started.html","title":"快速上手","lang":"zh-CN","frontmatter":{"title":"快速上手","description":"页面的描述"},"headers":[{"level":2,"title":"如何快速上手","slug":"如何快速上手","link":"#如何快速上手","children":[]}],"git":{"updatedTime":1703513321000},"filePathRelative":"guide/getting-started.md"}');export{t as data};
